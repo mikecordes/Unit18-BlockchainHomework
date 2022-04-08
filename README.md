@@ -192,15 +192,21 @@ Streamlit is used to run the pychain.py file in an easy read and use interface a
 I conducted a total of three transactions with different senders and receivers
 
 Transaction 1
+
 ![alt=""](Images/trans1.png)
 
+
 Transaction 2
+
 ![alt=""](Images/trans2.png)
 
 Transaction 3
+
 ![alt=""](Images/trans3.png)
 
+
 Finally, I validated the chain
+
 ![alt=""](Images/chainvalidation.png)
   
 
